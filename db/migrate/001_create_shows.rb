@@ -8,4 +8,3 @@ class CreateShows < ActiveRecord::Migration[5.2]
     end
   end
 end
->>>>>>> ee5156a653a340bad8593742754fe7bb0be3b370
