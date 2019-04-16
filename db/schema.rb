@@ -11,8 +11,6 @@
 # It's strongly recommended that you check this file into your version control system.
 
 ActiveRecord::Schema.define(version: 1) do
-<<<<<<< HEAD
-=======
   
   create_table "shows", force: :cascade do |t|
     t.string "name"
@@ -21,6 +19,5 @@ ActiveRecord::Schema.define(version: 1) do
     t.integer "rating"
     t.string "season"
   end
->>>>>>> ee5156a653a340bad8593742754fe7bb0be3b370
 
 end
